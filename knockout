@@ -1,0 +1,30 @@
+{
+  "roundOf16": [
+    { "team1": "Brazil", "team2": "South Korea", "winner": "Brazil", "date": "১৫ জুন, ২০২৬", "time": "রাত ৮:০০", "stadium": "লুসাইল স্টেডিয়াম" },
+    { "team1": "Argentina", "team2": "Mexico", "winner": "Argentina", "date": "১৬ জুন, ২০২৬", "time": "রাত ১০:০০", "stadium": "খলিফা স্টেডিয়াম" },
+    { "team1": "France", "team2": "Senegal", "winner": "France", "date": "১৭ জুন, ২০২৬", "time": "রাত ৯:০০", "stadium": "আল বায়েত স্টেডিয়াম" },
+    { "team1": "England", "team2": "Spain", "winner": "England", "date": "১৮ জুন, ২০২৬", "time": "রাত ১১:০০", "stadium": "এডুকেশন সিটি স্টেডিয়াম" },
+    { "team1": "Netherlands", "team2": "USA", "winner": "Netherlands", "date": "১৫ জুন, ২০২৬", "time": "রাত ১১:০০", "stadium": "আল থুমামা স্টেডিয়াম" },
+    { "team1": "Portugal", "team2": "Germany", "winner": "Portugal", "date": "১৬ জুন, ২০২৬", "time": "রাত ৮:০০", "stadium": "স্টেডিয়াম ৯৭৪" },
+    { "team1": "Belgium", "team2": "Croatia", "winner": "Belgium", "date": "১৭ জুন, ২০২৬", "time": "রাত ৮:০০", "stadium": "আহমদ বিন আলী স্টেডিয়াম" },
+    { "team1": "Japan", "team2": "Morocco", "winner": "Japan", "date": "১৮ জুন, ২০২৬", "time": "রাত ১০:০০", "stadium": "আল জানুব স্টেডিয়াম" }
+  ],
+  "quarterFinal": [
+    { "team1": "Brazil", "team2": "Argentina", "winner": "Brazil", "date": "২০ জুন, ২০২৬", "time": "রাত ৮:০০", "stadium": "লুসাইল স্টেডিয়াম" },
+    { "team1": "France", "team2": "England", "winner": "France", "date": "২১ জুন, ২০২৬", "time": "রাত ১০:০০", "stadium": "আল বায়েত স্টেডিয়াম" },
+    { "team1": "Netherlands", "team2": "Portugal", "winner": "Netherlands", "date": "২০ জুন, ২০২৬", "time": "রাত ১১:০০", "stadium": "খলিফা স্টেডিয়াম" },
+    { "team1": "Belgium", "team2": "Japan", "winner": "Belgium", "date": "২১ জুন, ২০২৬", "time": "রাত ৯:০০", "stadium": "এডুকেশন সিটি স্টেডিয়াম" }
+  ],
+  "semiFinal": [
+    { "team1": "Brazil", "team2": "France", "winner": "Brazil", "date": "২৪ জুন, ২০২৬", "time": "রাত ৯:০০", "stadium": "লুসাইল স্টেডিয়াম" },
+    { "team1": "Netherlands", "team2": "Belgium", "winner": "Netherlands", "date": "২৫ জুন, ২০২৬", "time": "রাত ৯:০০", "stadium": "আল বায়েত স্টেডিয়াম" }
+  ],
+  "final": {
+    "team1": "Brazil",
+    "team2": "Netherlands",
+    "winner": "Brazil",
+    "date": "৩০ জুন, ২০২৬",
+    "time": "রাত ৯:০০",
+    "stadium": "লুসাইল স্টেডিয়াম"
+  }
+}
