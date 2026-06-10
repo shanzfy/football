@@ -5,7 +5,7 @@
       "teams": [
         { "name": "Mexico", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 2 },
         { "name": "South Africa", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0 },
-        { "name": "South Korea", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0 },
+        { "name": "South Korea", "played": 3, "won": 2, "drawn": 0, "lost": 1, "goalsFor": 5, "goalsAgainst": 5 },
         { "name": "Czech Republic", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0 }
       ]
     },
